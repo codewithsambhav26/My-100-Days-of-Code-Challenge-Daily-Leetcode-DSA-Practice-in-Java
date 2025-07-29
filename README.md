@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge — Java + DSA + Leetcode
 
-**Started on: 23 July 2025**
+**Started on: 29 July 2025**
 
 Welcome to my **100 Days of Code** journey!  
 I’m challenging myself to solve Leetcode problems, practice DSA concepts, and code daily in **Java**.  
